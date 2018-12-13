@@ -1,0 +1,21 @@
+{
+    "name": "opmono-odarkp",
+    "displayName": "opmono odarkp",
+    "description": "one dark pro and operator mono font",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "opmono odarkp",
+                "uiTheme": "vs-dark",
+                "path": "./themes/color-theme.json"
+            }
+        ]
+    }
+}
