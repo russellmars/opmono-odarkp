@@ -2,7 +2,15 @@
     "name": "opmono-odarkp",
     "displayName": "opmono odarkp",
     "description": "one dark pro and operator mono font",
+	"publisher": "russellmars",
     "version": "0.0.1",
+    "bugs": {
+		"url": "https://github.com/russellmars/opmono-odarkp/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/russellmars/opmono-odarkp"
+	},
     "engines": {
         "vscode": "^1.30.0"
     },
