@@ -8,7 +8,7 @@ vscode用户设置里，设置字体
   "editor.fontFamily": "Operator Mono, Source Code Pro, Menlo, Consolas, 'Courier New', monospace, Microsoft YaHei UI"
 }
 ```
-首选项颜色
+最后在 `首选项 =》颜色主题`列表中选中`opmono odarkp`就可以了
 
 ### For more information
 * [fonts download](https://github.com/russellmars/russellmars.github.io/releases/download/1.0/fonts.zip)
